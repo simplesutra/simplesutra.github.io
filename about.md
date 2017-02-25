@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Simple Manifesto
+date:   2017-02-24 20:30:32 -0500
+permalink: /manifesto/
+categories: simplicity minimalism
+comments: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+> "Simplicity is the ultimate sophistication."
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+The intent of this blog is to provide advice on how to simplify your life.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Through simplification, we can live more meaningful, enjoyable lives.
+
+By owning fewer things and consuming less, we leave more time and money for what truly matters:
+
+* The people we care about
+
+* The activities that excite us
+
+* The impact we want to have on the world
